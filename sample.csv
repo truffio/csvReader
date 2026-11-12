@@ -1,0 +1,11 @@
+id,name,email,city,notes
+1,Alice Martin,alice.martin@example.com,Montréal,"Prefers email, not phone"
+2,Bob Smith,bob.smith@example.com,Toronto,"Said ""call me later"" on Monday"
+3,Chloé Dubois,chloe.dubois@example.fr,Paris,Renewed in März
+4,Diego Ramírez,diego.ramirez@example.mx,Guadalajara,"Address: 12 Calle Real, Piso 3"
+5,Yuki Tanaka,yuki.tanaka@example.jp,Osaka,東京 office contact
+6,Priya Nair,priya.nair@example.in,Bangalore,"Nickname ""Pri"""
+7,Samuel O'Connor,samuel.oconnor@example.ie,Dublin,
+8,Fatima Al-Sayed,fatima.alsayed@example.ae,Dubai,"Line one, line two"
+9,Lars Nilsson,lars.nilsson@example.se,Göteborg,Åland trip planned
+10,Mary Jones,mary.jones@example.com,"New York, NY",VIP customer

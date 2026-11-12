@@ -1,0 +1,10 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Test caches
+.pytest_cache/
